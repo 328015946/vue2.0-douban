@@ -20,4 +20,12 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 # vue2.0-douban
 ## demo预览
 ![home](https://github.com/328015946/vue2.0-douban/blob/master/src/assets/image/1.png)
-
+## 电影页面
+![movie](https://github.com/328015946/vue2.0-douban/blob/master/src/assets/image/2.png)
+![movie](https://github.com/328015946/vue2.0-douban/blob/master/src/assets/image/3.png)
+## 搜索页面
+![movie](https://github.com/328015946/vue2.0-douban/blob/master/src/assets/image/4.png)
+## 详情页
+![movie](https://github.com/328015946/vue2.0-douban/blob/master/src/assets/image/5.png)
+## 评论页
+![movie](https://github.com/328015946/vue2.0-douban/blob/master/src/assets/image/6.png)
