@@ -1,7 +1,5 @@
-# demo
-
-> A Vue.js project
-
+# vue2.0 豆瓣电影
+> A Vue.js demo 
 ## Build Setup
 
 ``` bash
