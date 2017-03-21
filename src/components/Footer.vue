@@ -25,7 +25,6 @@ export default {
       {name:"电影",path:"/movie",img:pic2},
       {name:"热门",path:"/hot",img:pic3},
       {name:"搜索",path:"/my",img:pic4}
-
       ]
     }
   },
@@ -45,10 +44,8 @@ export default {
          case 3:
         msg="搜索"
         break;
-
       }
       this.$emit("setzhi",msg);
-      
     }
   }
 }
