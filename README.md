@@ -18,3 +18,6 @@ npm run build --report
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # vue2.0-douban
+## demo预览
+![home](https://github.com/328015946/vue2.0-douban/blob/master/src/assets/image/1.png)
+
